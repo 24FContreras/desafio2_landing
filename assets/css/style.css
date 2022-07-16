@@ -26,6 +26,11 @@ header h1 {
 .products td {
   width: 50%;
   padding: 2em;
+  font-size: 1.3rem;
+}
+
+.products td .titulo-producto {
+  font-size: 1.6rem;
 }
 
 .products img {
