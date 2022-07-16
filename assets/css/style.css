@@ -32,6 +32,8 @@ header h1 {
   width: 100%;
   border: solid 1px #ddd;
   border-radius: 1em;
+  height: 30rem;
+  object-fit: cover;
 }
 
 footer {
